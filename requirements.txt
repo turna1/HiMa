@@ -1,0 +1,7 @@
+gradio
+Pillow
+google-genai
+google.generativeai
+gTTS
+pydub
+
