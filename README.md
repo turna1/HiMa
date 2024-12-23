@@ -201,7 +201,7 @@ By following these steps, you can create your own instance of the HiMa applicati
  
 3. **Products of HiMA project**:
    - **MommyBird Podcast Youtube:** [Listen at Youtube Podcast](https://youtu.be/nD-2ud0HsAA?si=Jn3fBcl9oj5k-_Nr)
-   - **MommyBird Podcast Youtube Music:** [Listen at Youtube Podcast](https://music.youtube.com/playlist?list=PLsOZIEeQQBvMoeme5NKhGum-Iku64es8j&si=JI6zRk9wuX24nNEp
+   - **MommyBird Podcast Youtube Music:** [Listen at Youtube Podcast](https://music.youtube.com/playlist?list=PLsOZIEeQQBvMoeme5NKhGum-Iku64es8j&si=JI6zRk9wuX24nNEp)
    - **MommyBird Podcast RSS:**[Listen directly at the RSS Website](https://rss.com/podcasts/mommybird-podcast/)
 ## License
 
