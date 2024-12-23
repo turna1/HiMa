@@ -17,16 +17,24 @@ This project was developed with new moms in mind, aiming to reduce the complexit
 1. **Item Identification**:
    - Take a photo of items in a store, and HiMa identifies them with context-specific labels.
    - Outputs are enhanced with bounding boxes drawn over the identified objects.
+     
+![detect](https://github.com/user-attachments/assets/a1f01cd7-c3d3-42ab-b31a-bc4c9edd1337)
 
 2. **Interactive Conversations**:
    - Users can chat with HiMa about the items identified in the photo.
    - HiMa provides detailed answers and can even conduct Google searches to enrich the responses.
+    ![chat](https://github.com/user-attachments/assets/07334ef8-f7db-4d65-a3be-17829d718a3a)
+
 
 3. **Custom Podcasts**:
    - HiMa generates personalized podcasts based on:
      - Conversations about identified items.
+       ![podcast1](https://github.com/user-attachments/assets/9daa8e1e-ad44-47f8-8b83-0f477e45e2b9)
+
      - User-specified topics.
    - Podcasts include transcripts and audio files.
+    ![podcast2](https://github.com/user-attachments/assets/3d9f9204-5256-41e3-86ac-4da8d6fd64fc)
+
 
 4. **Responsible AI**:
    - Safety settings ensure that content adheres to ethical guidelines, avoiding harmful or sensitive outputs.
