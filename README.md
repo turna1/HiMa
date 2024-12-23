@@ -47,10 +47,10 @@ This project was developed with new moms in mind, aiming to reduce the complexit
 ### Prerequisites
 
 1. **Google Studio API Key**:
-   - Follow [this guide](#) to create and obtain your API key.
+   - Follow [this guide](https://medium.com/@turna.fardousi/building-a-multimodal-chatbot-with-gemini-api-8015bfbee538) to create and obtain your API key.
 
 2. **Hugging Face Account**:
-   - Sign up on Hugging Face and follow [this guide](#) to set up your space.
+   - Sign up on Hugging Face and follow [this guide](https://medium.com/@turna.fardousi/building-a-multimodal-chatbot-with-gemini-api-8015bfbee538) to set up your space.
 
 ---
 
