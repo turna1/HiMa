@@ -187,15 +187,15 @@ def generate_podcast(response_text: str) -> str:
                 genai.types.SafetySetting(
                     category="HARM_CATEGORY_DANGEROUS_CONTENT",
                     threshold="BLOCK_ONLY_HIGH",
-                )
+                ),
                 genai.types.SafetySetting(
                     category="HARM_CATEGORY_HATE_SPEECH",
                     threshold="BLOCK_ONLY_HIGH",
-                )
+                ),
                 genai.types.SafetySetting(
                     category="HARM_CATEGORY_HARASSMENT",
                     threshold="BLOCK_ONLY_HIGH",
-                )
+                ),
                 genai.types.SafetySetting(
                     category="HARM_CATEGORY_SEXUALLY_EXPLICIT",
                     threshold="BLOCK_ONLY_HIGH",
