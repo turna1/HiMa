@@ -54,35 +54,6 @@ This project was developed with new moms in mind, aiming to reduce the complexit
 
 ---
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/HiMa.git
-   cd HiMa
-   ```
-
-2. Create a `requirements.txt` file with the following dependencies:
-   ```plaintext
-   gradio
-   gemini-sdk
-   opencv-python
-   numpy
-   requests
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Set up your API key as a secret variable:
-   ```bash
-   export GEMINI_API_KEY='your_google_studio_api_key'
-   ```
-
----
-
 ### Usage
 
 1. Create an `app.py` file following the workflow outlined below:
