@@ -184,7 +184,7 @@ By following these steps, you can create your own instance of the HiMa applicati
    - **MommyBird Podcast RSS:**[Listen directly at the RSS Website](https://rss.com/podcasts/mommybird-podcast/)
 ## License
 
-HiMa is released under the [MIT License](LICENSE). By contributing, you agree to the terms of this license.
+HiMa is released under the [MIT License](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository). By contributing, you agree to the terms of this license.
 
 ---
 ## Contact
@@ -192,7 +192,7 @@ HiMa is released under the [MIT License](LICENSE). By contributing, you agree to
 For questions or feedback, please reach out:
 
 - **Email**: rferd068@uottawa.ca
-- **GitHub Issues**: Submit issues or feature requests on the [Issues page](https://github.com/yourusername/HiMa/issues).
+- **GitHub Issues**: Submit issues or feature requests on the [Issues page](https://github.com/turna1/HiMa/issues).
 
 ---
 
