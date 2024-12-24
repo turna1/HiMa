@@ -1,5 +1,5 @@
 
-# HiMa: Multimodal AI Assistant for New Moms
+# 🤰HiMa: Multimodal AI Assistant for New Moms
 
 HiMa is a creative multimodal AI application designed to simplify life for expecting mothers. Powered by Gemini 2.0 and integrated with cutting-edge AI capabilities, HiMa leverages spatial understanding, multimodal reasoning, and external tool automation to deliver a seamless, intuitive experience. With HiMa, users can:
 
@@ -181,7 +181,7 @@ By following these steps, you can create your own instance of the HiMa applicati
 3. **Products of HiMA project**:
    - **MommyBird Podcast Youtube:** [Listen at Youtube Podcast](https://youtu.be/nD-2ud0HsAA?si=Jn3fBcl9oj5k-_Nr)
    - **MommyBird Podcast Youtube Music:** [Listen at Youtube Podcast](https://music.youtube.com/playlist?list=PLsOZIEeQQBvMoeme5NKhGum-Iku64es8j&si=JI6zRk9wuX24nNEp)
-   - **MommyBird Podcast RSS:**[Listen directly at the RSS Website](https://rss.com/podcasts/mommybird-podcast/)
+ 
 ## License
 
 HiMa is released under the [MIT License](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository). By contributing, you agree to the terms of this license.
